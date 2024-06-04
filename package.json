@@ -1,0 +1,22 @@
+{
+  "name": "ajs-check",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mikhailBrann/advance-js-hw-3-pub.git"
+  },
+  "author": "mikhailBr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikhailBrann/advance-js-hw-3-pub/issues"
+  },
+  "homepage": "https://github.com/mikhailBrann/advance-js-hw-3-pub#readme",
+  "description": "",
+  "dependencies": {
+    "@mikhailbrann/ajs": "^1.0.0"
+  }
+}
